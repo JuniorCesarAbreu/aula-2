@@ -28,11 +28,16 @@
 
   echo $variavel3;
 
+  // imprime todos os elementos do array
   echo '<br>' . implode(' | ', $variavel4);
 
   echo '<br>' . $variavel5['c'];
 
+  // var_dump exibe uma representação estruturada
   var_dump($variavel5);
+
+
+  require 'printer.php';
 
 
    ?>
