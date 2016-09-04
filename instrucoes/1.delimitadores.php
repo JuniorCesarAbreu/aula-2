@@ -2,6 +2,7 @@
 comandos
 ?>
 
+<!-- não recomendáveis -->
 <script language=”php”>
 comandos
 </script>
